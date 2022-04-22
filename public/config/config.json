@@ -1,13 +1,13 @@
 {
-  "CONTRACT_ADDRESS": "0xCaa087e6531fb9AAae423E439DA522cCD8D57B97",
-  "SCAN_LINK": "https://evm.evmos.dev/address/0xCaa087e6531fb9AAae423E439DA522cCD8D57B97/transactions",
+  "CONTRACT_ADDRESS": "0xCaF42278fB87c0d45D29dD396b3c33e8AbC7CAC6",
+  "SCAN_LINK": "https://evm.evmos.dev/address/0xCaF42278fB87c0d45D29dD396b3c33e8AbC7CAC6/transactions",
   "NETWORK": {
     "NAME": "Evmos Testnet",
     "SYMBOL": "tEVMOS",
     "ID": 9000
   },
-  "NFT_NAME": "Crypto Renaissance",
-  "SYMBOL": "CREVMOS",
+  "NFT_NAME": "CREvmos",
+  "SYMBOL": "CRNFT",
   "MAX_SUPPLY": 6000,
   "WEI_COST": 50000000000000000,
   "DISPLAY_COST": 100.00,
