@@ -8,11 +8,11 @@
   },
   "NFT_NAME": "Crypto Renaissance",
   "SYMBOL": "CREVMOS",
-  "MAX_SUPPLY": 5000,
+  "MAX_SUPPLY": 6000,
   "WEI_COST": 50000000000000000,
   "DISPLAY_COST": 100.00,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Marketplace",
   "MARKETPLACE_LINK": "https://twitter.com/OrbitMarketOS",
-  "SHOW_BACKGROUND": true
+  "SHOW_BACKGROUND": false
 }
