@@ -289,7 +289,7 @@ function App() {
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
                   Mint your CRNFT for {CONFIG.DISPLAY_COST}{" "}{CONFIG.NETWORK.SYMBOL}
-                   {" "}If you are part of the {CONFIG.NFT_NAME} Movement.
+                   {" "}
                 </s.TextTitle>
                 <s.SpacerXSmall />
                 <s.TextDescription
