@@ -256,7 +256,7 @@ function App() {
               </StyledButton>
               <StyledButton
                 style={{
-                  margin: "5px",
+                  margin: "15px",
                 }}
                 onClick={(e) => {
                   window.open(CONFIG.MARKETPLACE_LINK, "_blank");
@@ -434,7 +434,7 @@ function App() {
               </StyledButton>
               <StyledButton
                 onClick={(e) => {
-                  window.open("https://twitter.com/crevmos", "_blank");
+                  window.open("https://evm.evmos.dev/token/0xCaF42278fB87c0d45D29dD396b3c33e8AbC7CAC6/token-transfers", "_blank");
                 }}
                 style={{
                   margin: "15px",
@@ -444,13 +444,13 @@ function App() {
               </StyledButton>
               <StyledButton
                 onClick={(e) => {
-                  window.open("https://twitter.com/crevmos", "_blank");
+                  window.open("https://discord.gg/ntfzV8surG", "_blank");
                 }}
                 style={{
                   margin: "15px",
                 }}
               >
-                LINKS
+                DISCORD
               </StyledButton>
         </s.Container>
       </s.Container>
