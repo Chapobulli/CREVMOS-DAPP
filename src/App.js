@@ -145,7 +145,7 @@ function App() {
       .then((receipt) => {
         console.log(receipt);
         setFeedback(
-          `WOW, the ${CONFIG.NFT_NAME} is yours! go visit TofuNFT.com to view it.`
+          `WOW, the ${CONFIG.NFT_NAME} is yours! go visit OrbitMarket to view it.`
         );
         setClaimingNft(false);
         dispatch(fetchData(blockchain.account));
@@ -203,9 +203,6 @@ function App() {
       >
         <a href={CONFIG.MARKETPLACE_LINK}>
           <StyledLogo alt={"logo"} src={"/config/images/logo.png"} />
-        </a>
-        <a href={CONFIG.MARKETPLACE_LINK}>
-          <StyledLogo alt={"logo"} src={"/config/images/moonriver.png"} />
         </a>
         <s.SpacerSmall />
         <ResponsiveWrapper flex={1} style={{ padding: 24 }} test>
