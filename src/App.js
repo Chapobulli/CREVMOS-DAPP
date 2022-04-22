@@ -426,6 +426,36 @@ function App() {
           >
             Connect your wallet to see the minting progress. 
           </s.TextDescription>
+          <StyledButton
+                onClick={(e) => {
+                  window.open("https://twitter.com/crevmos", "_blank");
+                }}
+                style={{
+                  margin: "15px",
+                }}
+              >
+                TWITTER
+              </StyledButton>
+              <StyledButton
+                onClick={(e) => {
+                  window.open("https://twitter.com/crevmos", "_blank");
+                }}
+                style={{
+                  margin: "15px",
+                }}
+              >
+                SMART CONTRACT
+              </StyledButton>
+              <StyledButton
+                onClick={(e) => {
+                  window.open("https://twitter.com/crevmos", "_blank");
+                }}
+                style={{
+                  margin: "15px",
+                }}
+              >
+                LINKS
+              </StyledButton>
         </s.Container>
       </s.Container>
     </s.Screen>
