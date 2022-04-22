@@ -396,16 +396,12 @@ function App() {
           </s.Container>
           <s.SpacerLarge />
           <s.Container flex={1} jc={"center"} ai={"center"}>
-            <StyledImg
-              alt={"example"}
-              src={"/config/images/example.png"}
-            />
           </s.Container>
         </ResponsiveWrapper>
         <s.SpacerMedium />
         <s.Container jc={"center"} ai={"center"} style={{ width: "70%" }}>
         <StyledImg
-              src={"/config/images/example.gif"}
+              src={"/config/images/example.png"}
             />
           <s.TextDescription
             style={{
