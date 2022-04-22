@@ -404,6 +404,9 @@ function App() {
         </ResponsiveWrapper>
         <s.SpacerMedium />
         <s.Container jc={"center"} ai={"center"} style={{ width: "70%" }}>
+        <StyledImg
+              src={"/config/images/example.gif"}
+            />
           <s.TextDescription
             style={{
               textAlign: "center",
