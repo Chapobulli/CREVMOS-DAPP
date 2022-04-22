@@ -218,7 +218,7 @@ function App() {
               backgroundColor: "var(--accent)",
               padding: 24,
               borderRadius: 24,
-              border: "4px dashed var(--secondary)",
+              border: "0px dashed var(--secondary)",
               boxShadow: "0px 5px 11px 2px rgba(0,0,0,0.7)",
             }}
           >
@@ -291,8 +291,8 @@ function App() {
                 <s.TextTitle
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  Buy your BPYC for only {CONFIG.DISPLAY_COST}{" "}{CONFIG.NETWORK.SYMBOL}
-                   {" "}if you want to enter in {CONFIG.NFT_NAME} community.
+                  Mint your CRNFT for {CONFIG.DISPLAY_COST}{" "}{CONFIG.NETWORK.SYMBOL}
+                   {" "}If you are part of the {CONFIG.NFT_NAME} Movement.
                 </s.TextTitle>
                 <s.SpacerXSmall />
                 <s.TextDescription
@@ -388,7 +388,7 @@ function App() {
                           getData();
                         }}
                       >
-                        {claimingNft ? "BUSY" : "BUY"}
+                        {claimingNft ? "WAIT" : "MINT"}
                       </StyledButton>
                     </s.Container>
                   </>
