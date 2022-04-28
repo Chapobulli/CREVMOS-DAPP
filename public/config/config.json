@@ -2,7 +2,7 @@
   "CONTRACT_ADDRESS": "0x03F4EE9Eac9c86aC001824166c6D269abaC1F83d",
   "SCAN_LINK": "https://evm.evmos.org/token/0x03F4EE9Eac9c86aC001824166c6D269abaC1F83d/token-transfers",
   "NETWORK": {
-    "NAME": "Evmos (Mainnet)",
+    "NAME": "Evmos Mainnet",
     "SYMBOL": "EVMOS",
     "ID": 9001
   },
