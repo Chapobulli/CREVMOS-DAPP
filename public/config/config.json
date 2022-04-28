@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0xCaF42278fB87c0d45D29dD396b3c33e8AbC7CAC6",
-  "SCAN_LINK": "https://evm.evmos.dev/address/0xCaF42278fB87c0d45D29dD396b3c33e8AbC7CAC6/transactions",
+  "CONTRACT_ADDRESS": "0x03F4EE9Eac9c86aC001824166c6D269abaC1F83d",
+  "SCAN_LINK": "https://evm.evmos.org/token/0x03F4EE9Eac9c86aC001824166c6D269abaC1F83d/token-transfers",
   "NETWORK": {
-    "NAME": "Evmos Testnet",
-    "SYMBOL": "tEVMOS",
-    "ID": 9000
+    "NAME": "Evmos (Mainnet)",
+    "SYMBOL": "EVMOS",
+    "ID": 9001
   },
   "NFT_NAME": "CREvmos",
   "SYMBOL": "CRNFT",
   "MAX_SUPPLY": 2000,
-  "WEI_COST": 1000000000000000000,
-  "DISPLAY_COST": 1.00,
+  "WEI_COST": 15000000000000000000,
+  "DISPLAY_COST": 15.00,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Marketplace",
   "MARKETPLACE_LINK": "https://twitter.com/OrbitMarketOS",
