@@ -434,7 +434,7 @@ function App() {
               </StyledButton>
               <StyledButton
                 onClick={(e) => {
-                  window.open("https://evm.evmos.dev/token/0xCaF42278fB87c0d45D29dD396b3c33e8AbC7CAC6/token-transfers", "_blank");
+                  window.open("https://evm.evmos.org/token/0x03F4EE9Eac9c86aC001824166c6D269abaC1F83d/token-transfers", "_blank");
                 }}
                 style={{
                   margin: "15px",
